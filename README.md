@@ -26,72 +26,15 @@ This project helps administrators:
 
 ---
 
-## 📁 Folder Structure
-
-Timetable-generator/
-│
-├── ttms/ # Root folder of web application
-│ ├── admin/ # Admin dashboard and controls
-│ ├── files/ # Core logic for timetable generation
-│ ├── includes/ # Config and database connection
-│ ├── css/ # Stylesheets
-│ ├── js/ # JavaScript scripts
-│ ├── db.sql # SQL dump (if present)
-│ └── index.php # Entry point (Login page)
-│
-└── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/riya1o1/Timetable-generator.git
-Move the Project Folder
-
-Copy the ttms folder to your htdocs directory inside XAMPP.
-
-Start Apache and MySQL
-
-Open the XAMPP Control Panel and start both services.
-
-Import the Database
-
-Go to http://localhost/phpmyadmin
-
-Create a new database named ttms
-
-Import the db.sql file if available, or set up tables manually.
-
-Access the Application
-
-Visit http://localhost/ttms in your browser.
-
-🔐 Default Admin Login (if provided)
-makefile
-Copy
-Edit
-Username: admin
-Password: admin123
-Update credentials via the database as needed.
 
 ✨ Features
 ✅ Admin login and dashboard
-
 📚 Add and assign teachers, subjects, and classes
-
 📅 Generate class and teacher timetables
-
 ⚠️ Prevent clashes and overlaps
-
 🖨️ View and print final timetables
 
-.
+---
 
 # Login page:
 
