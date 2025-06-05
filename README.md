@@ -28,11 +28,11 @@ This project helps administrators:
 
 
 ✨ Features
-✅ Admin login and dashboard
-📚 Add and assign teachers, subjects, and classes
-📅 Generate class and teacher timetables
-⚠️ Prevent clashes and overlaps
-🖨️ View and print final timetables
+- Admin login and dashboard
+- Add and assign teachers, subjects, and classes
+- Generate class and teacher timetables
+- Prevent clashes and overlaps
+- View and print final timetables
 
 ---
 
