@@ -2,7 +2,6 @@
 
 A web-based **Timetable Management System** designed to help academic institutions automatically generate and manage class schedules. Built using PHP and MySQL, the system allows admins to assign teachers, subjects, and periods while ensuring conflict-free timetables.
 
----
 
 ## 📌 Project Summary
 
@@ -12,7 +11,6 @@ This project helps administrators:
 - Avoid teacher or subject clashes
 - View, print, and export generated timetables
 
----
 
 ## 💻 Tech Stack
 
@@ -24,8 +22,6 @@ This project helps administrators:
 | JavaScript | Interactivity and scripts |
 | XAMPP      | Local development server  |
 
----
-
 
 ✨ Features
 - Admin login and dashboard
@@ -34,7 +30,6 @@ This project helps administrators:
 - Prevent clashes and overlaps
 - View and print final timetables
 
----
 
 # Login page:
 
