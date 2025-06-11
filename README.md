@@ -49,3 +49,12 @@ This project helps administrators:
 
 ![Screenshot 2025-06-05 185856](https://github.com/user-attachments/assets/993470cd-dca7-456c-9aac-6b49297a4819)
 
+
+# 📫 Contact
+Riya Singh
+📧 mailriya1o1@gmail.com
+🔗 LinkedIn
+
+⭐ Star this repo to support and stay updated!
+
+
